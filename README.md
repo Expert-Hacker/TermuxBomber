@@ -76,8 +76,8 @@ Commands below provide instructions for Debian-based systems.
 To use the bomber type the following commands in Linux terminal:
 ```
 sudo apt install git
-git clone https://github.com/TheSpeedX/TBomb.git
-cd TBomb
+git clone https://github.com/KaravaliStudio/TermuxBomber.git
+cd TermuxBomber
 chmod +x TBomb.sh
 sudo bash TBomb.sh
 ```
@@ -109,4 +109,4 @@ Toilet cannot be installed yet. But TBomb does still work.
 sudo bash TBomb.sh
 ```
 
-#
+
